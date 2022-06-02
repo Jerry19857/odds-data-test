@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "json-server --port 8080 --watch ./database.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "odds-heroes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumit/odds-heroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tumit/odds-heroes/issues"
+  },
+  "homepage": "https://github.com/tumit/odds-heroes#readme",
+  "description": ""
+}
